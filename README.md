@@ -12,4 +12,7 @@
 2. calculate P,R,F1,ROC/AUC for datasets and algorithms
 3. output tables in command line
 
-
+## How to start
+```bash
+python main.py -a Example_Example2 -d myds
+```
